@@ -1,21 +1,9 @@
-# tpls
+Vue移动端地理定位组件
 
-> A Vue.js project
+基于高德地图
 
-## Build Setup
+可取到 省、市、区县、街道地址详情..
 
-``` bash
-# install dependencies
-npm install
+方便各种项目所需地理定位功能...
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+注：需申请高德秘钥
